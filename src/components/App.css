@@ -1,0 +1,219 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+body, .content-wrapper {
+  background-color: #fff;
+}
+
+.box {
+  background-color: #ff8a00;
+  border-color: #000;
+}
+
+.box-header.with-border {
+  border-color: #000;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+div#cups {
+  overflow-x: auto;
+}
+
+div#cups .row {
+  margin-right: 0px;
+}
+
+.info-box {
+  min-height: 110px;
+}
+
+.info-box-icon {
+  font-size: 32px;
+  height: 100%;
+  line-height: 110px;
+  text-transform: uppercase;
+}
+
+.info-box-number {
+  font-size: 14px;
+  overflow: hidden;
+}
+
+.info-box-number >span {
+  display: block;
+  float: right;
+}
+
+.info-box-number >span:first-child {
+  clear: left;
+  float: left;
+  width: 55px;
+}
+
+.info-box-icon a {
+  color: #333;
+}
+
+tr th, tr td {
+  padding: 5px;
+}
+
+.yesno {
+  display: block;
+  margin: auto;
+  margin-top: 25px;
+  width: 80px;
+}
+
+.yesno button {
+  display: block;
+  float: right;
+}
+
+.yesno button:first-child {
+  float: left;
+}
+
+.notify-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: flex-start;
+  align-content: flex-start;
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 9998;
+}
+
+.ReactModal__Overlay {
+  z-index: 9999;
+}
+ 
+.notify-item {
+  width: 250px;
+  margin: 5px 10px;
+  color: #FFF;
+  border-radius: 5px;
+}
+
+.notify-item a {
+  color: #FFF;
+}
+ 
+.notify-item:hover {
+  opacity: 0.8;
+  box-shadow: 0 0 10px 0 rgb(15, 15, 15);
+}
+ 
+.notify-item > p {
+  font-family: 'Lora', serif;
+  margin: 10px;
+  opacity: .8;
+}
+ 
+.notify-item.success {
+  background-color: rgba(81, 163, 81, 0.9);
+}
+ 
+.notify-item.error {
+  background-color: rgba(203, 100, 94, 0.9);
+}
+ 
+.notify-item.info {
+  background-color: rgba(33, 150, 243, 0.9);
+}
+ 
+.notify-title {
+  font-weight: 700;
+}
+
+.transfer label {
+  clear: left;
+  display: block;
+  float: left;
+  height: 25px;
+}
+
+.transfer input, .transfer select {
+  display: block;
+  float: right;
+  width: 150px;
+}
+
+.transfer input[type=submit] {
+  margin-top: 5px;
+}
+
+p.error {
+  clear: left;
+  color: red;
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.general-info > div {
+  float: left;
+  margin-right: 15px;
+}
+
+.system-status > div {
+  float: left;
+}
+
+.system-status > div > strong, .system-status > div > span {
+  display: block;
+  margin: 10px;
+}
+
+.error-color {
+  color: #dd4b39;
+}
+
+.warning-color {
+  color: #f39c12;
+}
+
+.success-color {
+  color: #00a65a;
+}
+
+.printedNumber {
+  cursor: pointer;
+}
+
+@media (min-width: 992px) {
+  .row.flex {
+    align-items: stretch;
+    display: flex;
+    margin-bottom: 20px;
+  }
+
+  .row.flex .box {
+    height: 100%;
+    margin-bottom: 0px;
+  }
+}

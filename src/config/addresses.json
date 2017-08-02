@@ -1,0 +1,54 @@
+{
+  "private": {
+    "cnx": "",
+    "fromBlock": 0,
+    "wallets": {
+      "0x90f8bf6a479f320ead074411a4b0e7944ea8c9c1": "Equipo 1"
+    }
+  },
+  "kovan": {
+    "cnx": "0x005bd88aaca07d01e5517a41e4ed1520703c7ce6",
+    "vault": "0x4f3f0b34b939e58e66aacc4d0b10ce95c8a13882",
+    "fromBlock": 0,
+    "wallets": {
+      "0x1B2A65BE826564Ee5f423a396644AE979DbD8e6a": "Adrian Addesso",
+      "0xEbfA39713a5b60a47E0eFAb8a310d629eE0AF855": "Alan Ortega",
+      "0xa3348DEAaD5771C77AAf316b7408214e482Bc893": "Alicia Fernandez",
+      "0x602799A62D2a96726511B2C45B798b8b6257a6A9": "Alvaro Guzman",
+      "0x0ed4955b57E2C769c04681f64b0cbC1Db21eF16F": "Bastien Hugon",
+      "0x192Be0CA18275F7aC20434df228115A30DF8C000": "Cristian Vergara",
+      "0x182023BF83694b1f534718F85518805F0dc87F13": "Daniel Astorga",
+      "0x1214518AEc07D7E1b009072d8d8D02cD13CfaF48": "Davina Bloch",
+      "0x29643314B0F38788397919bB357dE2f2c0382da0": "Ekaterina Gomez",
+      "0x9C30b61e35798581e66Aa58559011663754706F2": "Ewa Kunstman",
+      "0xf430057462E12d732B844f1c391A20309eD9421a": "Facundo Tula",
+      "0xdB33dFD3D61308C33C63209845DaD3e6bfb2c674": "Gonzalo Balabasquer",
+      "0xF8EC42A240b59e4EA1E9ed2294d917337748b126": "Iris Vonborries",
+      "0x62c039cF6EA5d1a51b6B13926B1cf9baFA0f793E": "Joao Peixoto",
+      "0x621A2C41Cb794Acd6176AdcD174974092Ea67b60": "Juan Nina",
+      "0x114500071e49d637492b5204b4059C95D0ad4013": "Marcelo Guevara",
+      "0x4ea32f438E6Ddb265fdeb46c9857C193e7ba6D38": "Mark de Vos",
+      "0x217CE1ba587dAb1269226c4d0f45816dDaCcE0f7": "Martin Cantet",
+      "0x6e0a67c6bfAEccAE5de0b532822772c4CE81f7b5": "Maxcel Carvajal",
+      "0x6ee6b5Fbc592B74AeFEb1B7a98be5Cd1AA9b8ed0": "Melissa Muniz",
+      "0x26cb304d64729142834a7652165d9EdDE3a4b66E": "Mikolaj Kutrzuba",
+      "0xBa0763B81cDF904adbC3AdAa8Ce3029EE09Cc7cf": "Isabel Meijer",
+      "0xe25aea2a5cb064c6321736EE496141382d041C3e": "Leonardo Tatarin",
+      "0x979B592E3C352Ec558f00E4bF5fdDF3Ae2a74823": "Oscar Casanova",
+      "0x2c89f10D34039117CCFAaCA3307c7EF85e966E52": "Paola Guzman",
+      "0x811d359a4d4dc0a485462587128808752446fC26": "Raisa Valda",
+      "0x294B5cBA2BE68Ec6239fd50CDA0ac4dbf86bb644": "Rene Marquez",
+      "0x2323e2141c325cbF5cB69d5C4125C8db56Ff90b2": "Sandra Vasquez",
+      "0xb96B94D08ef221832e0b2352Fe550B3d0b777E76": "Sergio Araoz",
+      "0x8756C136c570835aAffe62C36454b21076e37C3F": "Sergio Cardozo",
+      "0x6Ca2B3fb8591C58D5E761F840D252971A4933e0e": "Rodrigo Carrasco",
+      "0xbB0B7c7673b84169990Ea019dbe8D1c48340e1A2": "Valeria Ruiz",
+      "0x92F99DF2242EA4E2C9135dd5fe0C756fccE7331D": "Vandro Dossantos"
+    }
+  },
+  "live": {
+    "cnx": "",
+    "fromBlock": 0,
+    "wallets": {}
+  }
+}
